@@ -1,0 +1,714 @@
+{
+  "land_animals": [
+    {
+      "emoji": "🐅",
+      "translations": {
+        "en": "Tiger",
+        "fr": "Tigre",
+        "zh": "虎",
+        "ja": "トラ",
+        "ru": "Тигр",
+        "es": "Tigre",
+        "mg": "Tigra"
+      }
+    },
+    {
+      "emoji": "🐒",
+      "translations": {
+        "en": "Monkey",
+        "fr": "Singe",
+        "zh": "猴子",
+        "ja": "サル",
+        "ru": "Обезьяна",
+        "es": "Mono",
+        "mg": "Gidro"
+      }
+    },
+    {
+      "emoji": "🦍",
+      "translations": {
+        "en": "Gorilla",
+        "fr": "Gorille",
+        "zh": "大猩猩",
+        "ja": "ゴリラ",
+        "ru": "Горилла",
+        "es": "Gorila",
+        "mg": "Gorila"
+      }
+    },
+    {
+      "emoji": "🐕",
+      "translations": {
+        "en": "Dog",
+        "fr": "Chien",
+        "zh": "狗",
+        "ja": "犬",
+        "ru": "Собака",
+        "es": "Perro",
+        "mg": "Alika"
+      }
+    },
+    {
+      "emoji": "🐩",
+      "translations": {
+        "en": "Poodle",
+        "fr": "Caniche",
+        "zh": "贵宾犬",
+        "ja": "プードル",
+        "ru": "Пудель",
+        "es": "Caniche",
+        "mg": "Alika"
+      }
+    },
+    {
+      "emoji": "🐈",
+      "translations": {
+        "en": "Cat",
+        "fr": "Chat",
+        "zh": "猫",
+        "ja": "猫",
+        "ru": "Кошка",
+        "es": "Gato",
+        "mg": "Saka"
+      }
+    },
+    {
+      "emoji": "🐈‍⬛",
+      "translations": {
+        "en": "Black Cat",
+        "fr": "Chat Noir",
+        "zh": "黑猫",
+        "ja": "黒猫",
+        "ru": "Чёрная кошка",
+        "es": "Gato Negro",
+        "mg": "Saka mainty"
+      }
+    },
+    {
+      "emoji": "🐎",
+      "translations": {
+        "en": "Horse",
+        "fr": "Cheval",
+        "zh": "马",
+        "ja": "馬",
+        "ru": "Лошадь",
+        "es": "Caballo",
+        "mg": "Soavaly"
+      }
+    },
+    {
+      "emoji": "🦓",
+      "translations": {
+        "en": "Zebra",
+        "fr": "Zèbre",
+        "zh": "斑马",
+        "ja": "シマウマ",
+        "ru": "Зебра",
+        "es": "Cebra",
+        "mg": "Zebra"
+      }
+    },
+    {
+      "emoji": "🦌",
+      "translations": {
+        "en": "Deer",
+        "fr": "Cerf",
+        "zh": "鹿",
+        "ja": "鹿",
+        "ru": "Олень",
+        "es": "Ciervo",
+        "mg": "Diera"
+      }
+    },
+    {
+      "emoji": "🦬",
+      "translations": {
+        "en": "Bison",
+        "fr": "Bison",
+        "zh": "野牛",
+        "ja": "バイソン",
+        "ru": "Бизон",
+        "es": "Bisonte",
+        "mg": "Ombidia"
+      }
+    },
+    {
+      "emoji": "🐂",
+      "translations": {
+        "en": "Ox",
+        "fr": "Bœuf",
+        "zh": "公牛",
+        "ja": "牛",
+        "ru": "Бык",
+        "es": "Buey",
+        "mg": "Omby"
+      }
+    },
+    {
+      "emoji": "🐃",
+      "translations": {
+        "en": "Water Buffalo",
+        "fr": "Buffle d'eau",
+        "zh": "水牛",
+        "ja": "水牛",
+        "ru": "Водный буйвол",
+        "es": "Búfalo de agua",
+        "mg": "ombidia andrano"
+      }
+    },
+    {
+      "emoji": "🐄",
+      "translations": {
+        "en": "Cow",
+        "fr": "Vache",
+        "zh": "奶牛",
+        "ja": "牛",
+        "ru": "Корова",
+        "es": "Vaca",
+        "mg": "Omby"
+      }
+    },
+    {
+      "emoji": "🐏",
+      "translations": {
+        "en": "Ram",
+        "fr": "Bélier",
+        "zh": "公羊",
+        "ja": "雄羊",
+        "ru": "Баран",
+        "es": "Carnero",
+        "mg": "Ondry Lahy"
+      }
+    },
+    {
+      "emoji": "🐑",
+      "translations": {
+        "en": "Sheep",
+        "fr": "Mouton",
+        "zh": "羊",
+        "ja": "羊",
+        "ru": "Овца",
+        "es": "Oveja",
+        "mg": "Ondry"
+      }
+    },
+    {
+      "emoji": "🐐",
+      "translations": {
+        "en": "Goat",
+        "fr": "Chèvre",
+        "zh": "山羊",
+        "ja": "山羊",
+        "ru": "Коза",
+        "es": "Cabra",
+        "mg": "Hosy"
+      }
+    },
+    {
+      "emoji": "🐪",
+      "translations": {
+        "en": "Camel",
+        "fr": "Chameau",
+        "zh": "骆驼",
+        "ja": "ラクダ",
+        "ru": "Верблюд",
+        "es": "Camello",
+        "mg": "Kamely"
+      }
+    },
+    {
+      "emoji": "🐫",
+      "translations": {
+        "en": "Bactrian Camel",
+        "fr": "Dromadaire",
+        "zh": "双峰驼",
+        "ja": "バクトリアラクダ",
+        "ru": "Бактрианский верблюд",
+        "es": "Camello bactriano",
+        "mg": "Kamely "
+      }
+    },
+    {
+      "emoji": "🦙",
+      "translations": {
+        "en": "Llama",
+        "fr": "Lama",
+        "zh": "羊驼",
+        "ja": "リャマ",
+        "ru": "Лама",
+        "es": "Llama",
+        "mg": "Lama"
+      }
+    },
+    {
+      "emoji": "🐘",
+      "translations": {
+        "en": "Elephant",
+        "fr": "Éléphant",
+        "zh": "大象",
+        "ja": "象",
+        "ru": "Слон",
+        "es": "Elefante",
+        "mg": "Elefanta"
+      }
+    },
+    {
+      "emoji": "🦣",
+      "translations": {
+        "en": "Mammoth",
+        "fr": "Mammouth",
+        "zh": "猛犸象",
+        "ja": "マンモス",
+        "ru": "Мамонт",
+        "es": "Mamut",
+        "mg": "Mamota"
+      }
+    },
+    {
+      "emoji": "🦏",
+      "translations": {
+        "en": "Rhinoceros",
+        "fr": "Rhinocéros",
+        "zh": "犀牛",
+        "ja": "サイ",
+        "ru": "Носорог",
+        "es": "Rinoceronte",
+        "mg": "Rino"
+      }
+    },
+    {
+      "emoji": "🦛",
+      "translations": {
+        "en": "Hippopotamus",
+        "fr": "Hippopotame",
+        "zh": "河马",
+        "ja": "カバ",
+        "ru": "Бегемот",
+        "es": "Hipopótamo",
+        "mg": "Hipopotama"
+      }
+    },
+    {
+      "emoji": "🐇",
+      "translations": {
+        "en": "Rabbit",
+        "fr": "Lapin",
+        "zh": "兔子",
+        "ja": "ウサギ",
+        "ru": "Кролик",
+        "es": "Conejo",
+        "mg": "Bitro"
+      }
+    },
+    {
+      "emoji": "🐿️",
+      "translations": {
+        "en": "Chipmunk",
+        "fr": "Tamia",
+        "zh": "花栗鼠",
+        "ja": "シマリス",
+        "ru": "Бурундук",
+        "es": "Chipmunk",
+        "mg": "Tamia"
+      }
+    },
+    {
+      "emoji": "🦔",
+      "translations": {
+        "en": "Hedgehog",
+        "fr": "Hérisson",
+        "zh": "刺猬",
+        "ja": "ハリネズミ",
+        "ru": "Еж",
+        "es": "Erizo",
+        "mg": "Sokina"
+      }
+    },
+    {
+      "emoji": "🦨",
+      "translations": {
+        "en": "Skunk",
+        "fr": "Moufette",
+        "zh": "臭鼬",
+        "ja": "スカンク",
+        "ru": "Скунс",
+        "es": "Mofeta",
+        "mg": "Mofeta"
+      }
+    },
+    {
+      "emoji": "🦘",
+      "translations": {
+        "en": "Kangaroo",
+        "fr": "Kangourou",
+        "zh": "袋鼠",
+        "ja": "カンガルー",
+        "ru": "Кенгуру",
+        "es": "Canguro",
+        "mg": "Kangoro"
+      }
+    },
+    {
+      "emoji": "🦃",
+      "translations": {
+        "en": "Turkey",
+        "fr": "Dinde",
+        "zh": "火鸡",
+        "ja": "七面鳥",
+        "ru": "Индейка",
+        "es": "Pavo",
+        "mg": "Vorontsiloza"
+      }
+    },
+    {
+      "emoji": "🐓",
+      "translations": {
+        "en": "Rooster",
+        "fr": "Coq",
+        "zh": "公鸡",
+        "ja": "雄鶏",
+        "ru": "Петух",
+        "es": "Gallo",
+        "mg": "Akoho lahy"
+      }
+    },
+    {
+      "emoji": "🐤",
+      "translations": {
+        "en": "Chick",
+        "fr": "Poussin",
+        "zh": "小鸡",
+        "ja": "ヒヨコ",
+        "ru": "Цыплёнок",
+        "es": "Pollito",
+        "mg": "Akohokely"
+      }
+    },
+    {
+      "emoji": "🐦",
+      "translations": {
+        "en": "Bird",
+        "fr": "Oiseau",
+        "zh": "鸟",
+        "ja": "鳥",
+        "ru": "Птица",
+        "es": "Pájaro",
+        "mg": "Vorona"
+      }
+    },
+    {
+      "emoji": "🦤",
+      "translations": {
+        "en": "Dodo",
+        "fr": "Dodo",
+        "zh": "渡渡鸟",
+        "ja": "ドードー",
+        "ru": "Додо",
+        "es": "Dodo",
+        "mg": "Dôdô"
+      }
+    },
+    {
+      "emoji": "🦩",
+      "translations": {
+        "en": "Flamingo",
+        "fr": "Flamant rose",
+        "zh": "火烈鸟",
+        "ja": "フラミンゴ",
+        "ru": "Фламинго",
+        "es": "Flamenco",
+        "mg": "Vorona mavokely"
+      }
+    },
+    {
+      "emoji": "🦚",
+      "translations": {
+        "en": "Peacock",
+        "fr": "Paon",
+        "zh": "孔雀",
+        "ja": "クジャク",
+        "ru": "Павлин",
+        "es": "Pavo real",
+        "mg": "Vorombola"
+      }
+    },
+    {
+      "emoji": "🦜",
+      "translations": {
+        "en": "Parrot",
+        "fr": "Perroquet",
+        "zh": "鹦鹉",
+        "ja": "オウム",
+        "ru": "Попугай",
+        "es": "Loro",
+        "mg": "Boloky"
+      }
+    },
+    {
+      "emoji": "🐦‍⬛",
+      "translations": {
+        "en": "Crow",
+        "fr": "Corbeau",
+        "zh": "乌鸦",
+        "ja": "カラス",
+        "ru": "ворона",
+        "es": "cuervo",
+        "mg": "Goaika"
+      }
+    },
+    {
+      "emoji": "🪿",
+      "translations": {
+        "en": "Goose",
+        "fr": "Oie",
+        "zh": "鹅",
+        "ja": "ガチョウ",
+        "ru": "Гусь",
+        "es": "Ganso",
+        "mg": "Gisa"
+      }
+    },
+    {
+      "emoji": "🐦‍🔥",
+      "translations": {
+        "en": "Firebird",
+        "fr": "Oiseau de feu",
+        "zh": "火鸟",
+        "ja": "ファイアバーード",
+        "ru": "Огненная птица",
+        "es": "Pájaro de fuego",
+        "mg": "Vorona afo"
+      }
+    },
+    {
+      "emoji": "🐢",
+      "translations": {
+        "en": "Turtle",
+        "fr": "Tortue",
+        "zh": "乌龟",
+        "ja": "亀",
+        "ru": "Черепаха",
+        "es": "Tortuga",
+        "mg": "Sokatra"
+      }
+    },
+    {
+      "emoji": "🐉",
+      "translations": {
+        "en": "Dragon",
+        "fr": "Dragon",
+        "zh": "龙",
+        "ja": "ドラゴン",
+        "ru": "Дракон",
+        "es": "Dragón",
+        "mg": "Dragona"
+      }
+    },
+    {
+      "emoji": "🦕",
+      "translations": {
+        "en": "Sauropod",
+        "fr": "Sauropode",
+        "zh": "蜥脚类恐龙",
+        "ja": "サウロポッド",
+        "ru": "Савропод",
+        "es": "Sauropodo",
+        "mg": "Sôrôpôdy"
+      }
+    },
+    {
+      "emoji": "🐜",
+      "translations": {
+        "en": "Ant",
+        "fr": "Fourmi",
+        "zh": "蚂蚁",
+        "ja": "アリ",
+        "ru": "Муравей",
+        "es": "Hormiga",
+        "mg": "Vitsika"
+      }
+    },
+    {
+      "emoji": "🦗",
+      "translations": {
+        "en": "Cricket",
+        "fr": "Grillon",
+        "zh": "蟋蟀",
+        "ja": "コオロギ",
+        "ru": "Сверчок",
+        "es": "Grillo",
+        "mg": "Valala"
+      }
+    }
+  ],
+  "sea_animals": [
+    {
+      "emoji": "🐳",
+      "translations": {
+        "en": "Whale",
+        "fr": "Baleine",
+        "zh": "鲸鱼",
+        "ja": "クジラ",
+        "ru": "Кит",
+        "es": "Ballena",
+        "mg": "Trozona"
+      }
+    },
+    {
+      "emoji": "🐋",
+      "translations": {
+        "en": "Whale",
+        "fr": "Baleine",
+        "zh": "鲸鱼",
+        "ja": "クジラ",
+        "ru": "Кит",
+        "es": "Ballena",
+        "mg": "Trozona"
+      }
+    },
+    {
+      "emoji": "🐬",
+      "translations": {
+        "en": "Dolphin",
+        "fr": "Dauphin",
+        "zh": "海豚",
+        "ja": "イルカ",
+        "ru": "Дельфин",
+        "es": "Delfín",
+        "mg": "Feso"
+      }
+    },
+    {
+      "emoji": "🦭",
+      "translations": {
+        "en": "Seal",
+        "fr": "Phoque",
+        "zh": "海豹",
+        "ja": "アザラシ",
+        "ru": "Тюлень",
+        "es": "Foca",
+        "mg": "Foka"
+      }
+    },
+    {
+      "emoji": "🐟",
+      "translations": {
+        "en": "Fish",
+        "fr": "Poisson",
+        "zh": "鱼",
+        "ja": "魚",
+        "ru": "Рыба",
+        "es": "Pez",
+        "mg": "Trondro"
+      }
+    },
+    {
+      "emoji": "🐠",
+      "translations": {
+        "en": "Tropical Fish",
+        "fr": "Poisson tropical",
+        "zh": "热带鱼",
+        "ja": "トロピカルフィッシュ",
+        "ru": "Тропическая рыба",
+        "es": "Pez tropical",
+        "mg": "Trondro tropikaly"
+      }
+    },
+    {
+      "emoji": "🦈",
+      "translations": {
+        "en": "Shark",
+        "fr": "Requin",
+        "zh": "鲨鱼",
+        "ja": "サメ",
+        "ru": "Акула",
+        "es": "Tiburón",
+        "mg": "Antsantsa"
+      }
+    },
+    {
+      "emoji": "🐙",
+      "translations": {
+        "en": "Octopus",
+        "fr": "Pieuvre",
+        "zh": "章鱼",
+        "ja": "タコ",
+        "ru": "Осьминог",
+        "es": "Pulpo",
+        "mg": "Orita"
+      }
+    },
+    {
+      "emoji": "🪼",
+      "translations": {
+        "en": "Jellyfish",
+        "fr": "Méduse",
+        "zh": "水母",
+        "ja": "クラゲ",
+        "ru": "Медуза",
+        "es": "Medusa",
+        "mg": "Medosy"
+      }
+    },
+    {
+      "emoji": "🦐",
+      "translations": {
+        "en": "Shrimp",
+        "fr": "Crevette",
+        "zh": "虾",
+        "ja": "エビ",
+        "ru": "Креветка",
+        "es": "Camarón",
+        "mg": "Makamba"
+      }
+    },
+    {
+      "emoji": "🦑",
+      "translations": {
+        "en": "Squid",
+        "fr": "Calamar",
+        "zh": "鱿鱼",
+        "ja": "イカ",
+        "ru": "Кальмар",
+        "es": "Calamar",
+        "mg": "Kalamara"
+      }
+    },
+    {
+      "emoji": "🦞",
+      "translations": {
+        "en": "Lobster",
+        "fr": "Homard",
+        "zh": "龙虾",
+        "ja": "ロブスター",
+        "ru": "Омар",
+        "es": "Langosta",
+        "mg": "Langosta"
+      }
+    },
+    { 
+      "emoji": "🦖", 
+      "translations": { 
+        "en": "T-Rex", 
+        "fr": "T-Rex", 
+        "zh": "霸王龙", 
+        "ja": "ティラノサウルス", 
+        "ru": "Тираннозавр", 
+        "es": "Tiranosaurio", 
+        "mg": "Tiranôzôro" 
+      }
+    },
+    {
+      "emoji": "🦀",
+      "translations": {
+        "en": "Crab",
+        "fr": "Crabe",
+        "zh": "螃蟹",
+        "ja": "カニ",
+        "ru": "Краб",
+        "es": "Cangrejo",
+        "mg": "Foza"
+      }
+    }
+  ]
+}
