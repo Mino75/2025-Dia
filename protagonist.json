@@ -384,6 +384,18 @@
         "mg": "Akohokely"
       }
     },
+    { 
+      "emoji": "🦖", 
+      "translations": { 
+        "en": "T-Rex", 
+        "fr": "T-Rex", 
+        "zh": "霸王龙", 
+        "ja": "ティラノサウルス", 
+        "ru": "Тираннозавр", 
+        "es": "Tiranosaurio", 
+        "mg": "Tiranôzôro" 
+      }
+    },
     {
       "emoji": "🐦",
       "translations": {
@@ -684,18 +696,6 @@
         "ru": "Омар",
         "es": "Langosta",
         "mg": "Langosta"
-      }
-    },
-    { 
-      "emoji": "🦖", 
-      "translations": { 
-        "en": "T-Rex", 
-        "fr": "T-Rex", 
-        "zh": "霸王龙", 
-        "ja": "ティラノサウルス", 
-        "ru": "Тираннозавр", 
-        "es": "Tiranosaurio", 
-        "mg": "Tiranôzôro" 
       }
     },
     {
