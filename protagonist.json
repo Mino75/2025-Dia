@@ -5,7 +5,7 @@
       "translations": {
         "en": "Tiger",
         "fr": "Tigre",
-        "zh": "虎",
+        "zh": "虎hu(3)",
         "ja": "トラ",
         "ru": "Тигр",
         "es": "Tigre",
@@ -17,7 +17,7 @@
       "translations": {
         "en": "Monkey",
         "fr": "Singe",
-        "zh": "猴子",
+        "zh": "猴子 hou(2) zi(3)",
         "ja": "サル",
         "ru": "Обезьяна",
         "es": "Mono",
@@ -29,7 +29,7 @@
       "translations": {
         "en": "Gorilla",
         "fr": "Gorille",
-        "zh": "大猩猩",
+        "zh": "大猩猩 da(4) xing(1) xing(1)",
         "ja": "ゴリラ",
         "ru": "Горилла",
         "es": "Gorila",
@@ -41,8 +41,8 @@
       "translations": {
         "en": "Dog",
         "fr": "Chien",
-        "zh": "狗",
-        "ja": "犬",
+        "zh": "狗 gou(3)",
+        "ja": "犬 inu",
         "ru": "Собака",
         "es": "Perro",
         "mg": "Alika"
@@ -53,7 +53,7 @@
       "translations": {
         "en": "Poodle",
         "fr": "Caniche",
-        "zh": "贵宾犬",
+        "zh": "贵宾犬 gui(4) bin(1) quan(3)",
         "ja": "プードル",
         "ru": "Пудель",
         "es": "Caniche",
@@ -65,8 +65,8 @@
       "translations": {
         "en": "Cat",
         "fr": "Chat",
-        "zh": "猫",
-        "ja": "猫",
+        "zh": "猫 mao",
+        "ja": "猫 neko",
         "ru": "Кошка",
         "es": "Gato",
         "mg": "Saka"
@@ -77,8 +77,8 @@
       "translations": {
         "en": "Black Cat",
         "fr": "Chat Noir",
-        "zh": "黑猫",
-        "ja": "黒猫",
+        "zh": "黑猫 hei(1) mao(1)",
+        "ja": "黒猫 kuroneko",
         "ru": "Чёрная кошка",
         "es": "Gato Negro",
         "mg": "Saka mainty"
@@ -89,8 +89,8 @@
       "translations": {
         "en": "Horse",
         "fr": "Cheval",
-        "zh": "马",
-        "ja": "馬",
+        "zh": "马  ma(3)",
+        "ja": "馬  uma",
         "ru": "Лошадь",
         "es": "Caballo",
         "mg": "Soavaly"
@@ -101,7 +101,7 @@
       "translations": {
         "en": "Zebra",
         "fr": "Zèbre",
-        "zh": "斑马",
+        "zh": "斑马 ban(1) ma(3)",
         "ja": "シマウマ",
         "ru": "Зебра",
         "es": "Cebra",
@@ -113,8 +113,8 @@
       "translations": {
         "en": "Deer",
         "fr": "Cerf",
-        "zh": "鹿",
-        "ja": "鹿",
+        "zh": "鹿  lu(4)",
+        "ja": "鹿 shika",
         "ru": "Олень",
         "es": "Ciervo",
         "mg": "Diera"
@@ -125,7 +125,7 @@
       "translations": {
         "en": "Bison",
         "fr": "Bison",
-        "zh": "野牛",
+        "zh": "野牛 ye(3) niu(2)",
         "ja": "バイソン",
         "ru": "Бизон",
         "es": "Bisonte",
@@ -137,8 +137,8 @@
       "translations": {
         "en": "Ox",
         "fr": "Bœuf",
-        "zh": "公牛",
-        "ja": "牛",
+        "zh": "公牛 gong(1) niu(2)",
+        "ja": "牛 ushi",
         "ru": "Бык",
         "es": "Buey",
         "mg": "Omby"
@@ -149,8 +149,8 @@
       "translations": {
         "en": "Water Buffalo",
         "fr": "Buffle d'eau",
-        "zh": "水牛",
-        "ja": "水牛",
+        "zh": "水牛 shui(3) niu(2)",
+        "ja": "水牛  suigyuu",
         "ru": "Водный буйвол",
         "es": "Búfalo de agua",
         "mg": "ombidia andrano"
@@ -161,8 +161,8 @@
       "translations": {
         "en": "Cow",
         "fr": "Vache",
-        "zh": "奶牛",
-        "ja": "牛",
+        "zh": "奶牛  nai(3) niu(2)",
+        "ja": "牛 ushi",
         "ru": "Корова",
         "es": "Vaca",
         "mg": "Omby"
@@ -173,8 +173,8 @@
       "translations": {
         "en": "Ram",
         "fr": "Bélier",
-        "zh": "公羊",
-        "ja": "雄羊",
+        "zh": "公羊 gong(1) yang(2)",
+        "ja": "雄羊 osu hitsuji",
         "ru": "Баран",
         "es": "Carnero",
         "mg": "Ondry Lahy"
@@ -185,8 +185,8 @@
       "translations": {
         "en": "Sheep",
         "fr": "Mouton",
-        "zh": "羊",
-        "ja": "羊",
+        "zh": "羊  yang(2)",
+        "ja": "羊 hitsuji",
         "ru": "Овца",
         "es": "Oveja",
         "mg": "Ondry"
@@ -197,8 +197,8 @@
       "translations": {
         "en": "Goat",
         "fr": "Chèvre",
-        "zh": "山羊",
-        "ja": "山羊",
+        "zh": "山羊  shan(1) yang(2)",
+        "ja": "山羊 yagi",
         "ru": "Коза",
         "es": "Cabra",
         "mg": "Hosy"
@@ -209,7 +209,7 @@
       "translations": {
         "en": "Camel",
         "fr": "Chameau",
-        "zh": "骆驼",
+        "zh": "骆驼 luo(4) tuo(2)",
         "ja": "ラクダ",
         "ru": "Верблюд",
         "es": "Camello",
@@ -221,7 +221,7 @@
       "translations": {
         "en": "Bactrian Camel",
         "fr": "Dromadaire",
-        "zh": "双峰驼",
+        "zh": "双峰驼 shuang(1) feng(1) tuo(2)",
         "ja": "バクトリアラクダ",
         "ru": "Бактрианский верблюд",
         "es": "Camello bactriano",
@@ -233,7 +233,7 @@
       "translations": {
         "en": "Llama",
         "fr": "Lama",
-        "zh": "羊驼",
+        "zh": "羊驼 yang(2) tuo(2)",
         "ja": "リャマ",
         "ru": "Лама",
         "es": "Llama",
@@ -245,8 +245,8 @@
       "translations": {
         "en": "Elephant",
         "fr": "Éléphant",
-        "zh": "大象",
-        "ja": "象",
+        "zh": "大象 da(4) xiang(4)",
+        "ja": "象 zou",
         "ru": "Слон",
         "es": "Elefante",
         "mg": "Elefanta"
@@ -257,7 +257,7 @@
       "translations": {
         "en": "Mammoth",
         "fr": "Mammouth",
-        "zh": "猛犸象",
+        "zh": "猛犸象  meng(3) ma(3) xiang(4)",
         "ja": "マンモス",
         "ru": "Мамонт",
         "es": "Mamut",
@@ -269,7 +269,7 @@
       "translations": {
         "en": "Rhinoceros",
         "fr": "Rhinocéros",
-        "zh": "犀牛",
+        "zh": "犀牛 xi(1) niu(2)",
         "ja": "サイ",
         "ru": "Носорог",
         "es": "Rinoceronte",
@@ -281,7 +281,7 @@
       "translations": {
         "en": "Hippopotamus",
         "fr": "Hippopotame",
-        "zh": "河马",
+        "zh": "河马 he(2) ma(3)",
         "ja": "カバ",
         "ru": "Бегемот",
         "es": "Hipopótamo",
@@ -293,7 +293,7 @@
       "translations": {
         "en": "Rabbit",
         "fr": "Lapin",
-        "zh": "兔子",
+        "zh": "兔子 tu(4) zi(3)",
         "ja": "ウサギ",
         "ru": "Кролик",
         "es": "Conejo",
@@ -305,7 +305,7 @@
       "translations": {
         "en": "Chipmunk",
         "fr": "Tamia",
-        "zh": "花栗鼠",
+        "zh": "花栗鼠 hua(1) li(4) shu(3)",
         "ja": "シマリス",
         "ru": "Бурундук",
         "es": "Chipmunk",
@@ -317,7 +317,7 @@
       "translations": {
         "en": "Hedgehog",
         "fr": "Hérisson",
-        "zh": "刺猬",
+        "zh": "刺猬 ci(4) wei(4)",
         "ja": "ハリネズミ",
         "ru": "Еж",
         "es": "Erizo",
@@ -329,7 +329,7 @@
       "translations": {
         "en": "Skunk",
         "fr": "Moufette",
-        "zh": "臭鼬",
+        "zh": "臭鼬 chou(4) you(4)",
         "ja": "スカンク",
         "ru": "Скунс",
         "es": "Mofeta",
@@ -341,7 +341,7 @@
       "translations": {
         "en": "Kangaroo",
         "fr": "Kangourou",
-        "zh": "袋鼠",
+        "zh": "袋鼠 dai(4) shu(3)",
         "ja": "カンガルー",
         "ru": "Кенгуру",
         "es": "Canguro",
@@ -353,8 +353,8 @@
       "translations": {
         "en": "Turkey",
         "fr": "Dinde",
-        "zh": "火鸡",
-        "ja": "七面鳥",
+        "zh": "火鸡 huo(3) ji(1)",
+        "ja": "七面鳥 shichimenchou",
         "ru": "Индейка",
         "es": "Pavo",
         "mg": "Vorontsiloza"
@@ -365,8 +365,8 @@
       "translations": {
         "en": "Rooster",
         "fr": "Coq",
-        "zh": "公鸡",
-        "ja": "雄鶏",
+        "zh": "公鸡 gong(1) ji(1)",
+        "ja": "雄鶏  osu dori",
         "ru": "Петух",
         "es": "Gallo",
         "mg": "Akoho lahy"
@@ -377,7 +377,7 @@
       "translations": {
         "en": "Chick",
         "fr": "Poussin",
-        "zh": "小鸡",
+        "zh": "小鸡 xiao(3) ji(1)",
         "ja": "ヒヨコ",
         "ru": "Цыплёнок",
         "es": "Pollito",
@@ -389,7 +389,7 @@
       "translations": { 
         "en": "T-Rex", 
         "fr": "T-Rex", 
-        "zh": "霸王龙", 
+        "zh": "霸王龙 ba(4) wang(2) long(2)", 
         "ja": "ティラノサウルス", 
         "ru": "Тираннозавр", 
         "es": "Tiranosaurio", 
@@ -401,8 +401,8 @@
       "translations": {
         "en": "Bird",
         "fr": "Oiseau",
-        "zh": "鸟",
-        "ja": "鳥",
+        "zh": "鸟 niao(3)",
+        "ja": "鳥  tori",
         "ru": "Птица",
         "es": "Pájaro",
         "mg": "Vorona"
@@ -413,7 +413,7 @@
       "translations": {
         "en": "Dodo",
         "fr": "Dodo",
-        "zh": "渡渡鸟",
+        "zh": "渡渡鸟 du(4) du(4) niao(3)",
         "ja": "ドードー",
         "ru": "Додо",
         "es": "Dodo",
@@ -425,7 +425,7 @@
       "translations": {
         "en": "Flamingo",
         "fr": "Flamant rose",
-        "zh": "火烈鸟",
+        "zh": "火烈鸟 huo(3) lie(4) niao(3)",
         "ja": "フラミンゴ",
         "ru": "Фламинго",
         "es": "Flamenco",
@@ -437,7 +437,7 @@
       "translations": {
         "en": "Peacock",
         "fr": "Paon",
-        "zh": "孔雀",
+        "zh": "孔雀 kong(3) que(4)",
         "ja": "クジャク",
         "ru": "Павлин",
         "es": "Pavo real",
@@ -449,7 +449,7 @@
       "translations": {
         "en": "Parrot",
         "fr": "Perroquet",
-        "zh": "鹦鹉",
+        "zh": "鹦鹉 ying(1) wu(3)",
         "ja": "オウム",
         "ru": "Попугай",
         "es": "Loro",
@@ -461,7 +461,7 @@
       "translations": {
         "en": "Crow",
         "fr": "Corbeau",
-        "zh": "乌鸦",
+        "zh": "乌鸦 wu(1) ya(1)",
         "ja": "カラス",
         "ru": "ворона",
         "es": "cuervo",
@@ -473,7 +473,7 @@
       "translations": {
         "en": "Goose",
         "fr": "Oie",
-        "zh": "鹅",
+        "zh": "鹅 e(2)",
         "ja": "ガチョウ",
         "ru": "Гусь",
         "es": "Ganso",
@@ -485,7 +485,7 @@
       "translations": {
         "en": "Firebird",
         "fr": "Oiseau de feu",
-        "zh": "火鸟",
+        "zh": "火鸟 huo(3) niao(3)",
         "ja": "ファイアバーード",
         "ru": "Огненная птица",
         "es": "Pájaro de fuego",
@@ -497,8 +497,8 @@
       "translations": {
         "en": "Turtle",
         "fr": "Tortue",
-        "zh": "乌龟",
-        "ja": "亀",
+        "zh": "乌龟  wu(1) gui(1)",
+        "ja": "亀 kame",
         "ru": "Черепаха",
         "es": "Tortuga",
         "mg": "Sokatra"
@@ -509,8 +509,8 @@
       "translations": {
         "en": "Dragon",
         "fr": "Dragon",
-        "zh": "龙",
-        "ja": "ドラゴン",
+        "zh": "龙 long(2)",
+        "ja": "ドラゴン / 竜 (ryū) / 龍",
         "ru": "Дракон",
         "es": "Dragón",
         "mg": "Dragona"
@@ -521,7 +521,7 @@
       "translations": {
         "en": "Sauropod",
         "fr": "Sauropode",
-        "zh": "蜥脚类恐龙",
+        "zh": "蜥脚类恐龙 xi(1) jiao(3) lei(4) kong(3) long(2)",
         "ja": "サウロポッド",
         "ru": "Савропод",
         "es": "Sauropodo",
@@ -533,7 +533,7 @@
       "translations": {
         "en": "Ant",
         "fr": "Fourmi",
-        "zh": "蚂蚁",
+        "zh": "蚂蚁 ma(3) yi(3)",
         "ja": "アリ",
         "ru": "Муравей",
         "es": "Hormiga",
@@ -545,7 +545,7 @@
       "translations": {
         "en": "Cricket",
         "fr": "Grillon",
-        "zh": "蟋蟀",
+        "zh": "蟋蟀 xi(1) shuai(4)",
         "ja": "コオロギ",
         "ru": "Сверчок",
         "es": "Grillo",
@@ -559,19 +559,7 @@
       "translations": {
         "en": "Whale",
         "fr": "Baleine",
-        "zh": "鲸鱼",
-        "ja": "クジラ",
-        "ru": "Кит",
-        "es": "Ballena",
-        "mg": "Trozona"
-      }
-    },
-    {
-      "emoji": "🐋",
-      "translations": {
-        "en": "Whale",
-        "fr": "Baleine",
-        "zh": "鲸鱼",
+        "zh": "鲸鱼  jing(1) yu(2)",
         "ja": "クジラ",
         "ru": "Кит",
         "es": "Ballena",
@@ -583,7 +571,7 @@
       "translations": {
         "en": "Dolphin",
         "fr": "Dauphin",
-        "zh": "海豚",
+        "zh": "海豚 hai(3) tun(2)",
         "ja": "イルカ",
         "ru": "Дельфин",
         "es": "Delfín",
@@ -595,7 +583,7 @@
       "translations": {
         "en": "Seal",
         "fr": "Phoque",
-        "zh": "海豹",
+        "zh": "海豹 hai(3) bao(4)",
         "ja": "アザラシ",
         "ru": "Тюлень",
         "es": "Foca",
@@ -607,8 +595,8 @@
       "translations": {
         "en": "Fish",
         "fr": "Poisson",
-        "zh": "鱼",
-        "ja": "魚",
+        "zh": "鱼  yu(2)",
+        "ja": "魚 sakana",
         "ru": "Рыба",
         "es": "Pez",
         "mg": "Trondro"
@@ -619,7 +607,7 @@
       "translations": {
         "en": "Tropical Fish",
         "fr": "Poisson tropical",
-        "zh": "热带鱼",
+        "zh": "热带鱼  re(4) dai(4) yu(2)",
         "ja": "トロピカルフィッシュ",
         "ru": "Тропическая рыба",
         "es": "Pez tropical",
@@ -631,7 +619,7 @@
       "translations": {
         "en": "Shark",
         "fr": "Requin",
-        "zh": "鲨鱼",
+        "zh": "鲨鱼 sha(1) yu(2)",
         "ja": "サメ",
         "ru": "Акула",
         "es": "Tiburón",
@@ -643,7 +631,7 @@
       "translations": {
         "en": "Octopus",
         "fr": "Pieuvre",
-        "zh": "章鱼",
+        "zh": "章鱼 zhang(1) yu(2)",
         "ja": "タコ",
         "ru": "Осьминог",
         "es": "Pulpo",
@@ -655,7 +643,7 @@
       "translations": {
         "en": "Jellyfish",
         "fr": "Méduse",
-        "zh": "水母",
+        "zh": "水母 shui(3) mu(3)",
         "ja": "クラゲ",
         "ru": "Медуза",
         "es": "Medusa",
@@ -667,7 +655,7 @@
       "translations": {
         "en": "Shrimp",
         "fr": "Crevette",
-        "zh": "虾",
+        "zh": "虾 xia(1)",
         "ja": "エビ",
         "ru": "Креветка",
         "es": "Camarón",
@@ -679,7 +667,7 @@
       "translations": {
         "en": "Squid",
         "fr": "Calamar",
-        "zh": "鱿鱼",
+        "zh": "鱿鱼 you(2) yu(2)",
         "ja": "イカ",
         "ru": "Кальмар",
         "es": "Calamar",
@@ -691,7 +679,7 @@
       "translations": {
         "en": "Lobster",
         "fr": "Homard",
-        "zh": "龙虾",
+        "zh": "龙虾 long(2) xia(1)",
         "ja": "ロブスター",
         "ru": "Омар",
         "es": "Langosta",
@@ -703,7 +691,7 @@
       "translations": {
         "en": "Crab",
         "fr": "Crabe",
-        "zh": "螃蟹",
+        "zh": "螃蟹 pang(2) xie(4)",
         "ja": "カニ",
         "ru": "Краб",
         "es": "Cangrejo",
