@@ -551,7 +551,115 @@
         "es": "Grillo",
         "mg": "Valala"
       }
+    },
+    {
+    "emoji": "🦒",
+    "translations": {
+      "en": "Giraffe",
+      "fr": "Girafe",
+      "zh": "长颈鹿 chang(2) jing(3) lu(4)",
+      "ja": "キリン",
+      "ru": "Жираф",
+      "es": "Jirafa",
+      "mg": "Zarafa"
     }
+  },
+  {
+    "emoji": "🦇",
+    "translations": {
+      "en": "Bat",
+      "fr": "Chauve-souris",
+      "zh": "蝙蝠 bian(1) fu(2)",
+      "ja": "コウモリ",
+      "ru": "Летучая мышь",
+      "es": "Murciélago",
+      "mg": "Ramanavy"
+    }
+  },
+  {
+    "emoji": "🐖",
+    "translations": {
+      "en": "Pig",
+      "fr": "Cochon",
+      "zh": "猪 zhu(1)",
+      "ja": "ブタ",
+      "ru": "Свинья",
+      "es": "Cerdo",
+      "mg": "Kisoa"
+    }
+  },
+  {
+    "emoji": "🐝",
+    "translations": {
+      "en": "Bee",
+      "fr": "Abeille",
+      "zh": "蜜蜂 mi(4) feng(1)",
+      "ja": "ハチ",
+      "ru": "Пчела",
+      "es": "Abeja",
+      "mg": "Renitantely"
+    }
+  },
+  {
+    "emoji": "🦟",
+    "translations": {
+      "en": "Mosquito",
+      "fr": "Moustique",
+      "zh": "蚊子 wen(2) zi(3)",
+      "ja": "カ",
+      "ru": "Комар",
+      "es": "Mosquito",
+      "mg": "Moka"
+    }
+  },
+  {
+    "emoji": "🐌",
+    "translations": {
+      "en": "Snail",
+      "fr": "Escargot",
+      "zh": "蜗牛 wo(1) niu(2)",
+      "ja": "カタツムリ",
+      "ru": "Улитка",
+      "es": "Caracol",
+      "mg": "Voanio"
+    }
+  },
+  {
+    "emoji": "🦅",
+    "translations": {
+      "en": "Eagle",
+      "fr": "Aigle",
+      "zh": "鹰 ying(1)",
+      "ja": "ワシ",
+      "ru": "Орел",
+      "es": "Águila",
+      "mg": "Voromahery"
+    }
+  },
+    {
+  "emoji": "🐆",
+  "translations": {
+    "en": "Leopard",
+    "fr": "Léopard",
+    "zh": "豹 bào(4)",
+    "ja": "ヒョウ",
+    "ru": "Леопард",
+    "es": "Leopardo",
+    "mg": "Leoparda"
+  }
+},
+  {
+    "emoji": "🐧",
+    "translations": {
+      "en": "Penguin",
+      "fr": "Manchot",
+      "zh": "企鹅 qi(3) e(2)",
+      "ja": "ペンギン",
+      "ru": "Пингвин",
+      "es": "Pingüino",
+      "mg": "Fosaorana"
+    }
+  }
   ],
   "sea_animals": [
     {
