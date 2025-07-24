@@ -1,28 +1,26 @@
-# 🏃‍♂️ Dia Game
+🏃‍♂️ Dia Game
+📋 Table of Contents
 
-## 📋 Table of Contents
-- [📖 About](#-about)
-- [🚀 Getting Started](#-getting-started)
-- [🔨 How to Build / How to Run](#-how-to-build--how-to-run)
-- [🏗️ Project Structure](#️-project-structure)
-- [🎯 Features](#-features)
-- [🐳 Docker Deployment](#-docker-deployment)
-- [🤖 CI/CD](#-cicd)
-- [📄 License](#-license)
+📖 About
+🚀 Getting Started
+🔨 How to Build / How to Run
+🏗️ Project Structure
+🎯 Features
+🐳 Docker Deployment
+🤖 CI/CD
+📄 License
 
-## 📖 About
+📖 About
 Dia is an interactive mobile-friendly game featuring character movement and collectible items. It's a Progressive Web App (PWA) built with vanilla JavaScript, featuring an Express.js server for deployment. Players control a character that can move around the game area and collect items while managing their score.
+🚀 Getting Started
+Prerequisites
 
-## 🚀 Getting Started
+Node.js (v20 or higher)
+npm package manager
+Modern web browser
 
-### Prerequisites
-- Node.js (v20 or higher)
-- npm package manager
-- Modern web browser
-
-### 📦 Installation
-```bash
-git clone <repository-url>
+📦 Installation
+bashgit clone <repository-url>
 cd dia
 npm install
 🔨 How to Build / How to Run
